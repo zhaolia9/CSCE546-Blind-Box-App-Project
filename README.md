@@ -1,4 +1,4 @@
-# [CSCE546-Blind-Box-App-Project]
+# CSCE546-Blind-Box-App-Project
 
 Full Repo: https://github.com/VenkatesanNadimuthu/MysteryApp
 
